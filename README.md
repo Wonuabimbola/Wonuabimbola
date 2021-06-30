@@ -1,16 +1,14 @@
-### Hi there 👋
+## Hi guys 👋
 
-<!--
-**Wonuabimbola/Wonuabimbola** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently adding more skills to my repertoire
+- 🌱 I’m working on becoming proficient in R and Tableau
+- 👯 Looking to collaborate on any open source projects
+- ✨ Invite me to networking events
+- 💬 Ask me about my projects!
+- ⚡ Fun fact: I'm an avid lover of horror movies and anime
 
-Here are some ideas to get you started:
+Let's connect! 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<kbd><a href= 'https://www.linkedin.com/in/wonuola-abimbola/' rel="nofollow"><img src= "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a></kbd>
+<kbd><a href="https://wonuolaa4.medium.com/" rel="nofollow"><img src= "https://img.shields.io/badge/Medium-white?style=for-the-badge&logo=medium&logoColor=black" /></a></kbd>
+<kbd><a href="mailto:wonuolaa4@gmail" rel="nofollow"><img src= "https://img.shields.io/badge/Gmail-white?style=for-the-badge&logo=gmail&logoColor=red" /></a></kbd>
