@@ -1,7 +1,7 @@
 ## Hi guys 👋
 
 - 🔭 I’m currently adding more skills to my repertoire
-- 🌱 I’m working on becoming proficient in R and Tableau
+- 🌱 I’m working on becoming proficient in R
 - 👯 Looking to collaborate on any open source projects
 - ✨ Invite me to networking events
 - 💬 Ask me about my projects!
