@@ -1,7 +1,7 @@
 ## Hi guys 👋
 
-- 🔭 I’m currently adding more skills to my repertoire
-- 🌱 I’m working on becoming proficient in R
+- 🔭 I’m currently working as a Full Stack Software Engineer.
+- 🌱 I’m working with Java, Springboot, Oracle SQL on the backend with Angular, TypeScript on frontend.
 - 👯 Looking to collaborate on any open source projects
 - ✨ Invite me to networking events
 - 💬 Ask me about my projects!
